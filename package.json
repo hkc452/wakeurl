@@ -1,0 +1,24 @@
+{
+  "name": "wakeurl",
+  "version": "0.0.1",
+  "description": "wake up the url and make it normal",
+	"repository": "https://github.com/hkc452/wakeurl",
+	"author": {
+		"name": "hkc452",
+		"email": "779543729@qq.com"
+	},
+  "main": "index.js",
+  "scripts": {
+		"test": "ava"
+  },
+	"license": "MIT",
+	"devDependencies": {
+		"ava": "*",
+		"xo": "*"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"keywords": [
+	]
+}
